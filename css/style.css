@@ -1,0 +1,53 @@
+ul{
+    background-color: aqua;
+    overflow:hidden
+    margin: 0;
+    padding: 0;
+
+}
+ul li{
+    list-style-type: none;
+    float:left
+}
+
+li a{
+    color: aliceblue;
+    display: block;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: antiquewhite;
+    
+
+}
+
+.menuActivo{
+    background-color: blue;
+}
+div{
+   margin: 5px;
+   width: 50% auto;
+   background-color: rgb(161, 127, 255);
+}
+
+div h1{
+    color: blue;
+    text-align: center;
+    font-size: 45px;
+}
+
+div section{
+    margin: 10PX 20PX;
+
+}
+
+section h2{
+    color: rgb(255, 127, 223);
+    font: 35px;
+}
+
+section p{
+    font-size: 20px;
+}
